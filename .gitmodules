@@ -1,0 +1,3 @@
+[submodule "supabase"]
+	path = supabase
+	url = git@github.com:SebbieMzingKe/supabase.git
